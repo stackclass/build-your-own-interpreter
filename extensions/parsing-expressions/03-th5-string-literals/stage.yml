@@ -1,0 +1,6 @@
+slug: "th5"
+primary_extension_slug: "parsing-expressions"
+name: "String literals"
+difficulty: medium
+description: |-
+  In this stage, you'll implement support for parsing string literals.

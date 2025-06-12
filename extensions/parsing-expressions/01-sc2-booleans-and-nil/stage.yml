@@ -1,0 +1,5 @@
+slug: "sc2"
+name: "Booleans & Nil"
+difficulty: hard
+description: |-
+  In this stage, you'll implement support for parsing boolean values and the nil literal.

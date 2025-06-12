@@ -1,0 +1,5 @@
+slug: "ra8"
+name: "Number literals"
+difficulty: medium
+description: |-
+  In this stage, you'll implement support for parsing number literals.

@@ -1,0 +1,5 @@
+slug: "ry8"
+name: "Scanning: Empty file"
+difficulty: very_easy
+description: |-
+  In this stage, you'll implement basic support for the `tokenize` command which we'll use in all stages that are part of the [Scanning](https://craftinginterpreters.com/scanning.html) chapter.

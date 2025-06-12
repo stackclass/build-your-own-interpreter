@@ -1,0 +1,4 @@
+slug: "iz6"
+name: "Literals: Booleans & Nil"
+difficulty: hard
+description: In this stage, you'll implement support for evaluating boolean values and the nil literal.

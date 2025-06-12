@@ -1,0 +1,13 @@
+- slug: "parsing-expressions"
+  name: "Parsing Expressions"
+  description: |
+    This extension covers chapters 5 & 6 of the book ([Representing Code](https://craftinginterpreters.com/representing-code.html) & [Parsing Expressions](https://craftinginterpreters.com/parsing-expressions.html)).
+
+    In this extension, you'll add the ability to parse expressions.
+
+- slug: "evaluating-expressions"
+  name: "Evaluating Expressions"
+  description: |
+    This extension covers chapters 7 of the book ([Evaluating Expressions](https://craftinginterpreters.com/evaluating-expressions.html)).
+
+    In this extension, you'll add the ability to evaluate expressions.

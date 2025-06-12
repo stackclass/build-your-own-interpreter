@@ -1,0 +1,5 @@
+slug: "lv1"
+name: "Literals: Strings & Numbers"
+difficulty: medium
+description: |-
+  In this stage, you'll implement support for evaluating number and string literals.
