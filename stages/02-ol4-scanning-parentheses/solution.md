@@ -13,5 +13,5 @@ To run tests, make changes to your code and run the following commands:
 ```sh
 git add .
 git commit --allow-empty -m "[any message]"
-git push origin master
+git push origin main
 ```

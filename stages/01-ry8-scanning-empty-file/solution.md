@@ -39,13 +39,13 @@ git commit -am "[any message]"
 The output of the command should look like this:
 
 ```text
-[master 8bc0189] [any message] 1 file changed, 1 insertion(+), 1 deletion(-)
+[main 8bc0189] [any message] 1 file changed, 1 insertion(+), 1 deletion(-)
 ```
 
 Next, run this command to push your changes:
 
 ```sh
-git push origin master
+git push origin main
 ```
 
 The output of the command should look like this:
