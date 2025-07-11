@@ -51,7 +51,7 @@ git push origin main
 The output of the command should look like this:
 
 ```text
-remote: Welcome to CodeCraft! Your commit was received successfully.
+remote: Welcome to StackClass! Your commit was received successfully.
 ```
 
 Once you run the commands above, the Tests failed message below this card will

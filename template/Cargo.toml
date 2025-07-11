@@ -1,11 +1,10 @@
 [package]
-name = "codecraft-interpreter"
+name = "stackclass-interpreter"
 version = "0.1.0"
-authors = ["Codecrafters <hello@codecrafters.io>"]
+authors = ["StackClass <hello@stackclass.dev>"]
 edition = "2021"
-rust-version = "1.80"
 
 [dependencies]
 anyhow = "1.0.98"                                # error handling
-bytes = "1.10.1"                                  # helps manage buffers
+bytes = "1.10.1"                                 # helps manage buffers
 thiserror = "2.0.12"                             # error handling

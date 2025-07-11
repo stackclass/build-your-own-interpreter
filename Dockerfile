@@ -7,4 +7,4 @@ WORKDIR /app
 COPY --exclude=.git --exclude=README.md . /app
 
 # This runs cargo build
-RUN .codecraft/compile.sh
+RUN .stackclass/compile.sh

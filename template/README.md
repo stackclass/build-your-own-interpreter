@@ -43,4 +43,4 @@ Note: This section is for stages 2 and beyond.
    `src/main.rs`. This command compiles your Rust project, so it might be slow
    the first time you run it. Subsequent runs will be fast.
 3. Commit your changes and run `git push origin main` to submit your solution
-   to CodeCraft. Test output will be streamed to your terminal.
+   to StackClass. Test output will be streamed to your terminal.

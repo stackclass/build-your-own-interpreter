@@ -4,7 +4,7 @@ Content for the "Build your own Interpreter" challenge
 
 ## Setup
 
-This challenge is developed using Codecraft Course SDK. Read the README there
+This challenge is developed using StackClass Course SDK. Read the README there
 for information on how to contribute language support & submit solutions.
 
 ## Credits
