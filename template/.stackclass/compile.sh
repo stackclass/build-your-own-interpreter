@@ -8,4 +8,4 @@
 
 set -e # Exit on failure
 
-cargo build --release --target-dir=/tmp/stackclass-interpreter --manifest-path Cargo.toml
+cargo build --release

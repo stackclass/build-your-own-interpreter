@@ -14,11 +14,11 @@ set -e # Exit early if any commands fail
 # - Edit .stackclass/compile.sh to change how your program compiles remotely
 (
   cd "$(dirname "$0")" # Ensure compile steps are run within the repository directory
-  cargo build --release --target-dir=/tmp/stackclass-interpreter --manifest-path Cargo.toml
+  cargo build --release
 )
 
 # Copied from .stackclass/run.sh
 #
 # - Edit this to change how your program runs locally
 # - Edit .stackclass/run.sh to change how your program runs remotely
-exec /tmp/stackclass-interpreter/release/stackclass-interpreter "$@"
+exec target/release/stackclass-interpreter "$@"
